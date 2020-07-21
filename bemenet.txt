@@ -1,0 +1,15 @@
+12
+T Abel 20
+T Albert 25
+T Chester 30
+T Colin 15
+H Conrad 15
+H Craig 20
+H Daniel 22
+H Dennis 25
+H Earl 16
+M Emmanuel 30
+M Felix 28
+M Francis 32
+3
+v v s

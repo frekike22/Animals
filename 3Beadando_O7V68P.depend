@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1560205717 source:c:\users\o7v68p\documents\oop\3beadando_o7v68p\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	"Allat.h"
+	"Kedv.h"
+
+1560114753 source:c:\users\o7v68p\documents\oop\3beadando_o7v68p\kedv.cpp
+	"Kedv.h"
+	"Allat.h"
+
+1560171389 c:\users\o7v68p\documents\oop\3beadando_o7v68p\kedv.h
+	<string>
+
+1560194787 c:\users\o7v68p\documents\oop\3beadando_o7v68p\allat.h
+	<string>
+	"Kedv.h"
+
